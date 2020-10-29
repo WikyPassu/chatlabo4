@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fireapp-779bf": {
+      "hosting": {
+        "FireApp": [
+          "fireapp-779bf"
+        ]
+      }
+    }
+  }
+}
